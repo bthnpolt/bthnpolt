@@ -1,6 +1,6 @@
 - Batuhan Polat
 - Mobil ve web yazılım geliştirme alanları ile ilgileniyorum
-- Düzce Üniversitesi Yönetim Bilişim Sistemleri
+- Yönetim Bilişim Sistemleri
 
 -batuhanpolat.edu@gmail.com
 
